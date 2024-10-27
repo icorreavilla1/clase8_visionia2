@@ -39,7 +39,8 @@ st.markdown(
 )
 
 # Título de la aplicación
-st.markdown('<h1 class="title">Detección de Objetos en Imágenes</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title">VEO VEEEOOO...🧐</h1>', unsafe_allow_html=True)
+st.markdown('<h2 class="title">Puedo detectar los objetos de tus imagenes</h2>', unsafe_allow_html=True)
 
 # Barra lateral para parámetros
 with st.sidebar:
